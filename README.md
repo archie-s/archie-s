@@ -6,8 +6,6 @@ I’m especially interested in **AI-powered systems**, **web platforms**, and **
 
 I like working at the intersection of **engineering, product, and creativity**—building things that are useful, well-designed, and thoughtfully documented.
 
----
-
 ## 🚀 What I work on
 - **AI & Data-driven applications**  
   Predictive systems, forecasting models, and intelligent dashboards.
@@ -22,8 +20,6 @@ Some projects you’ll find here include:
 - AI-assisted platforms for forecasting and decision-making  
 - Full-stack apps with modern frontend frameworks  
 - Prototypes, case studies, and academic/side projects
-
----
 
 ## 🛠️ What tools I use
 **Languages**
@@ -53,8 +49,6 @@ Some projects you’ll find here include:
 - Docker 
 - Postman  
 - Figma (for quick UI thinking)
-
----
 
 ## 📫 How to reach me
 **LinkedIn:** [https://www.linkedin.com/in/joyce-achieng/]  
