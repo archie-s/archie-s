@@ -20,7 +20,7 @@ Some projects you’ll find here include:
 - Full-stack apps with modern frontend frameworks  
 - Prototypes, case studies, and academic/side projects
 
-## 🛠️ What tools I use
+## 🛠️ Some of the tools I use
 **Languages**
 - JavaScript / TypeScript  
 - Python
@@ -50,7 +50,7 @@ Some projects you’ll find here include:
 - Figma (for quick UI thinking)
 
 ## 📫 How to reach me
-**LinkedIn:** [https://www.linkedin.com/in/joyce-achieng/]  
+**LinkedIn:** https://www.linkedin.com/in/joyce-achieng/
 
 I’m open to collaborations, internships, research, and interesting conversations around tech, AI, and product building.
 
