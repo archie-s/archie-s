@@ -1,6 +1,5 @@
 # Hi, I’m Joyce 👋🏽
 
-## 👩🏽‍💻 Who I am
 I’m a Software Engineer and builder who enjoys turning real-world problems into practical, scalable software.  
 I’m especially interested in **AI-powered systems**, **web platforms**, and **tech that creates real impact**.
 
