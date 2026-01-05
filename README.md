@@ -1,6 +1,6 @@
 # Hi, I’m Joyce 👋🏽
 
-I’m a Software Engineer and builder who enjoys turning real-world problems into practical, scalable software.  
+I’m a Software Engineer and professional artist who enjoys turning real-world problems into practical, scalable software.  
 I’m especially interested in **AI-powered systems**, **web platforms**, and **tech that creates real impact**.
 
 I like working at the intersection of **engineering, product, and creativity**—building things that are useful, well-designed, and thoughtfully documented.
